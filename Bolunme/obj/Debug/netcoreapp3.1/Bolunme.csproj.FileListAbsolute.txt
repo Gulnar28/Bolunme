@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\bin\Debug\netcoreapp3.1\Bolunme.exe
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\bin\Debug\netcoreapp3.1\Bolunme.deps.json
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\bin\Debug\netcoreapp3.1\Bolunme.runtimeconfig.json
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\bin\Debug\netcoreapp3.1\Bolunme.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\bin\Debug\netcoreapp3.1\Bolunme.dll
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\bin\Debug\netcoreapp3.1\Bolunme.pdb
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\obj\Debug\netcoreapp3.1\Bolunme.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\obj\Debug\netcoreapp3.1\Bolunme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\obj\Debug\netcoreapp3.1\Bolunme.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\obj\Debug\netcoreapp3.1\Bolunme.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\obj\Debug\netcoreapp3.1\Bolunme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\obj\Debug\netcoreapp3.1\Bolunme.dll
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\obj\Debug\netcoreapp3.1\Bolunme.pdb
+C:\Users\ACER\Desktop\Bolunme\Bolunme\Bolunme\obj\Debug\netcoreapp3.1\Bolunme.genruntimeconfig.cache
